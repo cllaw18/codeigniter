@@ -1,0 +1,1 @@
+ <h2><? echo $contact_success;?></h2>
